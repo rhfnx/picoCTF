@@ -11,9 +11,10 @@
 <details>
 
 <summary>List Solutions of The Competition Event :trophy:</summary>
+
 |Event|Solutions|Progress|
 |-----|---------|--------|
-|picoCTF 2022|[Click here]()|:large_blue_circle:
+|picoCTF 2022|[Click here]()|:large_blue_circle:|
 |Beginner picoMini 2022|[Click here]()|:white_circle:|
 |picoMini by redpwn|[Click here]()|:red_circle:|
 |picoCTF 2021|[Click here]()|:large_blue_circle:| 
