@@ -1,4 +1,5 @@
 # picoCTF - picoGym - Write Up by rhfnx :triangular_flag_on_post:
+![image](https://user-images.githubusercontent.com/108726715/198802937-007bd19e-110c-4fda-a5b5-d1ef9ed04dbb.png)
 
 - Hello everyone this is my write ups about picoCTF and also all challenges in picoGYm, this repository it's for you who want to learn about CTF(Capture The Flag) which is a Cyber-Security competition.
 
