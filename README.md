@@ -9,6 +9,14 @@
 ## What is picoCTF? :triangular_flag_on_post:
 - **picoCTF** is a websites that's allow you for competing in Cyber-Security division. there's a lot of challenge in picoCTF if you'd like to try some of the Challenges, head on over to [picoCTF](https://picoctf.org) or [picoGym](https://play.picoctf.org/practice) and try it yourself!
 
+## Categories of the Competition :computer:
+- ```Web Exploitation```
+- ```Cryptography```
+- ```Reverse Engineering```
+- ```Forensics```
+- ```General Skills```
+- ```Binary Exploitation```
+
 <details>
 
 <summary>List Solutions of The Competition Event :trophy:</summary>
