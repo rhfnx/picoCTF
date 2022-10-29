@@ -24,7 +24,7 @@
 |Event|Solutions|Progress|
 |-----|---------|--------|
 |picoCTF 2022|[Click here]()|:large_blue_circle:|
-|Beginner picoMini 2022|[Click here]()|:white_circle:|
+|Beginner picoMini 2022|[Click here]()|:large_blue_circle:|
 |picoMini by redpwn|[Click here]()|:red_circle:|
 |picoCTF 2021|[Click here]()|:large_blue_circle:| 
 |pico 2020 Mini-Competition|[Click here]()|:red_circle:|
