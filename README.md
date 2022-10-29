@@ -5,8 +5,8 @@
 ## What is CTF? :triangular_flag_on_post:
 - CTF (Capture The Flag) is an exersice in which "flag" are secretly hidden in purposefully-vulnerable programs or webistes.
 
-## What is pico CTF? :triangular_flag_on_post:
-- picoCTF is a websites that's allow you for competing in Cyber-Security division. there's a lot of challenge in picoCTF if you'd like to try some of the Challenges, head on over to [picoCTF](https://picoctf.org) or [picoGym](https://play.picoctf.org/practice) and try it yourself!
+## What is picoCTF? :triangular_flag_on_post:
+- **picoCTF** is a websites that's allow you for competing in Cyber-Security division. there's a lot of challenge in picoCTF if you'd like to try some of the Challenges, head on over to [picoCTF](https://picoctf.org) or [picoGym](https://play.picoctf.org/practice) and try it yourself!
 
 <details>
 
