@@ -19,7 +19,7 @@
 
 <details>
 
-<summary>List Solutions of The Competition Event :trophy:</summary>
+<summary><h2>List Solutions of The Competition Event :trophy:<h2></summary>
 
 |Event|Solutions|Progress|
 |-----|---------|--------|
