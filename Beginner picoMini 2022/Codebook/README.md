@@ -21,16 +21,16 @@ Run the Python script ```code.py``` in the same directory as ```codebook.txt```.
 ## Solutions 🎯
 - Download the files.
 
-  <details>
+<details>
   
-  <summary>File list 📁</summary>
+<summary>File List 📁</summary>
   
-  |FILE|DOWNLOAD|
-  |----|--------|
-  |code.py|[Click here](https://artifacts.picoctf.net/c/102/code.py)|
-  |codebook.txt|[Click here](https://artifacts.picoctf.net/c/102/codebook.txt)|
+|FILE|DOWNLOAD FIle|VIEW FILE|
+|----|-------------|----------|
+|code.py|[Download](https://artifacts.picoctf.net/c/102/code.py)|[Cilck here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/Codebook/code.py)|
+|codebook.txt|[Download](https://artifacts.picoctf.net/c/102/codebook.txt)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/Codebook/codebook.txt)|
   
-  </details>
+</details>
 
 - Run ```code.py``` in the same directory with ```codebook.txt``` using ```$python3 code.py``` command in your terminal.
 - The flag is ```picoCTF{c0d3b00k_455157_197a982c}```.
