@@ -19,7 +19,7 @@ Run the Python script ```code.py``` in the same directory as ```codebook.txt```.
 > 2. The str_xor function does not need to be reverse engineered for this challenge.
 
 ## Solutions 🎯
-- Download the files from the challenge, you can see or download the file down here :arrow_down:
+- Download the files from the Challenge.
 
   <details>
   
