@@ -52,12 +52,6 @@ Can you crack the password to get the flag? Download the password checker here a
 > 2. You may need to trim the whitespace from the dictionary word before hashing. Look up the Python string function, strip
 > 3. The str_xor function does not need to be reverse engineered for this challenge.
 
-
-
-
-
-
-
 ## Solutions PW Crack 1🎯
 - Download the file from the Challenge.
 
@@ -79,8 +73,23 @@ Can you crack the password to get the flag? Download the password checker here a
   
   |FILE|DOWNLOAD FILE|VIEW FILE|
   |----|-------------|----------|
+  |level1.py|[Download](https://artifacts.picoctf.net/c/52/level1.py)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level1.py)|
+  |level1.flag.txt.enc||[Download](https://artifacts.picoctf.net/c/52/level1.flag.txt.enc)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level1.flag.txt.enc)|
   
   </details>
+  
+- Try run the file. you can see there is a password to input on the program if we want the flag.</br>
+  ![image](https://user-images.githubusercontent.com/108726715/200016100-87331802-e392-42ed-b964-a400185ec389.png)</br>
+- Now check the source code, maybe we can find something in there.</br>
+  ![level1](https://user-images.githubusercontent.com/108726715/200016246-0fb50e4f-6cb3-4367-a541-7e6ac2a3a8f4.png)</br>
+- There is a password ```1e1a```, try run it again and input the password.</br>
+  ![image](https://user-images.githubusercontent.com/108726715/200016510-10a8e211-ff65-4fa3-84e1-40bce4c8dc85.png)</br>
+ - the flag is ```picoCTF{545h_r1ng1ng_fa343060}``
+
+  
+
+
+
 
 ## Solutions PW Crack 4 🎯
 - Download the file from the Challenge.
