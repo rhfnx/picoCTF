@@ -9,7 +9,7 @@
 - ```Beginner picoMini 2022```
 - ```General Skills```
 - ```password_cracking```
-- ```hashing````
+- ```hashing```
 
 ## Author ⭐
 - LT 'SYREAL' JONES
