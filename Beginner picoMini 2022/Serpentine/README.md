@@ -35,7 +35,7 @@ Find the flag in the Python script!
 - Run ```serpentine.py``` using ```$python3 serpentine.py``` command in your terminal.
 - The ```b``` option doesn't show the flag and there's an order to check the source code let's check using code editor.</br>
   ![Screenshot from 2022-11-04 21-04-03](https://user-images.githubusercontent.com/108726715/199993135-d7e3abc9-98e4-4c98-8292-ff436a4e06b8.png)</br>
-- Now we can see on the bottom of code, in the 2nd ```elif``` the ```print_flag()``` doesn't called.</br>
+- Now we can see on the bottom of code, in the ```elif``` the ```print_flag()``` function doesn't called.</br>
   ![serpentine](https://user-images.githubusercontent.com/108726715/199996878-6c61c385-0fa4-4757-990b-42835bcdc8b0.png)</br>
 - After adding the function let's try run it again.</br>
   ![serpentine2](https://user-images.githubusercontent.com/108726715/199997353-bb49e562-f41d-4dcc-a21d-109a80a09e40.png)</br>
