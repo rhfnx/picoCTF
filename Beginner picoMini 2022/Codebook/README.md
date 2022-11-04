@@ -21,9 +21,11 @@ Run the Python script ```code.py``` in the same directory as ```codebook.txt```.
 ## Solutions 🎯
 - Download the files.
   <details>
-    <summary>File list</summary>
-      - ```code.py``` = [Click here](https://artifacts.picoctf.net/c/102/code.py) 👈</br>
-      - ```codebook.txt``` = [Click here](https://artifacts.picoctf.net/c/102/codebook.txt) 👈</br>
+    <summary>File list 📁</summary>
+      |FILE|DOWNLOAD|
+      |----|--------|
+      |code.py|[Click here](https://artifacts.picoctf.net/c/102/code.py)|
+      |codebook.txt||[Click here](https://artifacts.picoctf.net/c/102/codebook.txt)|
   </details>
 
 - Run ```code.py``` in the same directory with ```codebook.txt``` using ```$python3 code.py``` command in your terminal.
