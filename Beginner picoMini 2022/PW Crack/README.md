@@ -63,7 +63,7 @@ Can you crack the password to get the flag? Download the password checker here a
   |FILE|DOWNLOAD FILE|VIEW FILE|
   |----|-------------|---------|
   |level1.py|[Download](https://artifacts.picoctf.net/c/52/level1.py)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level1.py)|
-  |level1.flag.txt.enc||[Download](https://artifacts.picoctf.net/c/52/level1.flag.txt.enc)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level1.flag.txt.enc)|
+  |level1.flag.txt.enc|[Download](https://artifacts.picoctf.net/c/52/level1.flag.txt.enc)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level1.flag.txt.enc)|
   
   </details>
   
