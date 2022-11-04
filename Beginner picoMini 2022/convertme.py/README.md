@@ -36,5 +36,5 @@ Run the Python script and convert the given number from decimal to binary to get
   </details>
 
 - Run ```convertme.py``` using ```$python3 convertme.py``` command in your terminal.
-- Then you just need answer the question. If you dont know how to convert decimal to binary for the question you can use online tools for help, im using [](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+- Then you just need answer the question. If you dont know how to convert decimal to binary for the question you can use online tools for help, im using [rapidtables.com](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 - The flag is ```picoCTF{4ll_y0ur_b4535_9c3b7d4d}```.
