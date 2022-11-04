@@ -84,8 +84,19 @@ Can you crack the password to get the flag? Download the password checker here a
   
   |FILE|DOWNLOAD FILE|VIEW FILE|
   |----|-------------|---------|
+  |level2.py|[Download](https://artifacts.picoctf.net/c/18/level2.py)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level2.py)|
+  |level2.flag.txt.enc|[Download](https://artifacts.picoctf.net/c/18/level2.flag.txt.enc)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level2.flag.txt.enc)|
   
   </details>
+ - Try run the file, this challenge it's the same as ```PW Crack 1```.</br>
+  ![image](https://user-images.githubusercontent.com/108726715/200020551-2f67db92-ce06-4416-8168-a335de3ba4b5.png)</br>
+ -  Check the source code.</br>
+  ![level2](https://user-images.githubusercontent.com/108726715/200020911-d4c478d6-c108-4074-9354-1d0fa8f039d0.png)<br>
+ - Let's try print the password using python in terminal.</br>
+  ![image](https://user-images.githubusercontent.com/108726715/200021323-beff4285-7002-4981-9e3e-629b03706bbd.png)</br>
+ - The password is ```39ce``` , Let's try run it again and input the password.</br>
+  ![image](https://user-images.githubusercontent.com/108726715/200021686-08c00aad-b23c-4fb4-ba97-5f06bf4aed26.png)</br>
+ - The flag is ```picoCTF{tr45h_51ng1ng_502ec42e}```
 
 ## Solutions PW Crack 3 🎯
 - Download the file from the Challenge.
