@@ -107,8 +107,22 @@ Can you crack the password to get the flag? Download the password checker here a
   
   |FILE|DOWNLOAD FILE|VIEW FILE|
   |----|-------------|---------|
+  |level3.py|[Download](https://artifacts.picoctf.net/c/23/level3.py)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level3.py)|
+  |level3.flag.txt.enc|[Download](https://artifacts.picoctf.net/c/23/level3.flag.txt.enc)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level3.flag.txt.enc)|
+  |leve3.hash.bin|[Download](https://artifacts.picoctf.net/c/23/level3.hash.bin)|[Click here](https://github.com/rhfnx/picoCTF/blob/main/Beginner%20picoMini%202022/PW%20Crack/level3.hash.bin)|
   
   </details>
+- Try run the file, you can see we need password to get the flag.<br/>
+  ![image](https://user-images.githubusercontent.com/108726715/201508139-ef65c4ab-36db-4565-92bd-0a97dcca9cac.png)</br>
+- Check the code using text editor
+- On the bottom line there are 7 strings which only 1 can be the real password we looking for.</br>
+  ![level3](https://user-images.githubusercontent.com/108726715/201508843-4886a8a4-fedc-4c53-bff6-f11ee2763d1b.png)</br>
+- I try this and it's work!</br>
+  ![image](https://user-images.githubusercontent.com/108726715/201508900-43e76c58-df51-4d3f-8ef4-7d5cf7cd8d03.png)</br>
+- the flag is ```picoCTF{m45h_fl1ng1ng_2b072a90}```
+
+
+
 
 ## Solutions PW Crack 4 🎯
 - Download the file from the Challenge.
