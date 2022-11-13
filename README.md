@@ -32,8 +32,8 @@
 |picoGym Exclusive|[Click here]()|:large_blue_circle:|
 
 - :white_circle: is for **Finish**
-- :large_blue_circle: is for **Still On Going**
-- :red_circle: is for **Not trying it yet**
+- :large_blue_circle: is for **On Going**
+- :red_circle: is for **Not Available yet**
 
 </details>
 
